@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "heroku": "^7.60.2",
+    "y": "^0.3.2"
+  },
+  "scripts": {
+    "start": "./script/index.js"
+    
+  }
+}
